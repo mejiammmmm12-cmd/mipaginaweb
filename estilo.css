@@ -54,7 +54,7 @@ header {
 }
 
 .etiqueta {
-    color: #d7e9ff;
+    color: #black;
     font-size: 0.85rem;
     font-weight: bold;
     letter-spacing: 2px;
@@ -68,7 +68,7 @@ header {
 }
 
 .navegacion a {
-    color: white;
+    color: blue;
     text-decoration: none;
     padding: 9px 12px;
     border-radius: 8px;
@@ -92,7 +92,7 @@ main {
 }
 
 .tarjeta {
-    background: white;
+    background: black;
     border: 1px solid var(--borde);
     border-radius: 16px;
     padding: 25px;
@@ -107,7 +107,7 @@ main {
 }
 
 h2 {
-    color: var(--azul-oscuro);
+    color: var(--rosa-oscuro);
     margin-top: 0;
 }
 
@@ -128,12 +128,12 @@ h3 {
 }
 
 .boton:hover {
-    background: var(--azul-oscuro);
+    background: var(--rosa-oscuro);
 }
 
 .boton-claro {
     background: white;
-    color: var(--azul-oscuro);
+    color: var(--rosa-oscuro);
 }
 
 .imagen-principal {
@@ -154,7 +154,7 @@ h3 {
 }
 
 .mini-tarjeta {
-    background: #f7faff;
+    background: #black;
     border: 1px solid var(--borde);
     border-radius: 12px;
     padding: 18px;
